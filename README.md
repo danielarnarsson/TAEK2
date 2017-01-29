@@ -40,4 +40,7 @@
 ######Lokud spurning er thegar svarandinn hefur takmarkada moguleika a hvernig hann
 ######getur svarad.
 ######Daemi: "Ertu med 2016 gerdina af word". Nu hefur svarandinn takmarkada moguleika a
-######hvernig hann getur svarad. Daemi um svor:"Já/nei/ég veit thad ekki"
+######hvernig hann getur svarad. Daemi um svor:"Já/nei/ég veit thad ekki".
+###8. Hvad eru jadartaeki?
+######Jadartaeki er taeki sem er stjornad af tolvu og getur haft samskipti vid hana.
+###9.
