@@ -1,14 +1,14 @@
 #TÆK2TÖ05BU vor 2017
 ##git verkefni 2
 
-###1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
-######     RAM stendur fyrir Random Access Memory og þegar þú opnar eitthvað 
-######	   file/document, þá les ramið file-ið á diskinum og geymir það á 
-######	   meðan þú ert með það opið.
-###2. Fyrir hvad stendur skammstofunin ROM? Útskýrðu hvað ROM er.
-######	   ROM stendur fyrir "Read-Only Memory". Það er bara hægt að lesa það en
-######	   ekki breyta neinu. ROM inniheldur meðal annars upplýsingum um hvernig
-######	   talvan á að kveikja á sér.
+###1. Fyrir hvad stendur skammstöfunin RAM? Utskyrdu hvad RAM er.
+######     RAM stendur fyrir Random Access Memory og thegar thu opnar eitthvad 
+######	   file/document, tha les ramid file-id a diskinum og geymir thad a 
+######	   medan thu ert med thad opid.
+###2. Fyrir hvad stendur skammstofunin ROM? Utskyrdu hvad ROM er.
+######	   ROM stendur fyrir "Read-Only Memory". Thad er bara haegt ad lesa thad en
+######	   ekki breyta neinu. ROM inniheldur medal annars upplysingum um hvernig
+######	   tolvan a ad kveikja a ser.
 ###3. Hvad er fyrirbyggjandi vidhald?
 ######	   Ad nota virusvorn, geyma tolvuna i koldu og thurru lofti, ad
 ######	   setja viftur i tolvuna, o.fl..
