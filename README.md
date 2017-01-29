@@ -43,4 +43,6 @@
 ######hvernig hann getur svarad. Daemi um svor:"Já/nei/ég veit thad ekki".
 ###8. Hvad eru jadartaeki?
 ######Jadartaeki er taeki sem er stjornad af tolvu og getur haft samskipti vid hana.
-###9.
+###9. Nefndu thrju daemi um inntakstaeki.
+######T.d. lyklabord, mus, og míkrafónn.
+###10.
