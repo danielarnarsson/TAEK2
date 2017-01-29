@@ -45,4 +45,11 @@
 ######Jadartaeki er taeki sem er stjornad af tolvu og getur haft samskipti vid hana.
 ###9. Nefndu thrju daemi um inntakstaeki.
 ######T.d. lyklabord, mus, og míkrafónn.
-###10.
+###10. Notadu vefsidur islenskra tolvuverslana til ad velja ihluti til ad setja saman
+###goda leikjatolvu. Thu ert med fjarmagn upp a 250 thusund kronur. Settu upp toflu thar
+###sem fram kemur hvada ihluti thu valdir, hvad hver ihlutur kostar og hvar hann faest.
+| Ihlutir                  | Keypt i         | Kostnadur |
+| ------------------------ |:---------:      | ---------:|
+| MSI GTX 1060 Gaming X 3GB| tolvulistinn.is | kr 44996  |
+
+ 
