@@ -31,3 +31,13 @@
 ######4. Veldu lausn
 ######5. Innleiddu lausnina
 ######6. Metadu utkomuna
+###7.Hver er munurinn a opinni (e. open ended) og lokadri (closed ended) spurningu?
+###  Nefnid daemi um badar gerdir af spurningum
+######Opin spurning er thegar svarandinn hefur marga möguleika til að svara.
+######Daemi: "Hvad er vandamalid?". Nu eru nanast endalausir moguleikar a hvernig 
+######svarandinn getur svarad spurningunni. Daemi um svar:"Tolvan min fris alltaf
+######thegar eg opna microsoft word"
+######Lokud spurning er thegar svarandinn hefur takmarkada moguleika a hvernig hann
+######getur svarad.
+######Daemi: "Ertu med 2016 gerdina af word". Nu hefur svarandinn takmarkada moguleika a
+######hvernig hann getur svarad. Daemi um svor:"Já/nei/ég veit thad ekki"
