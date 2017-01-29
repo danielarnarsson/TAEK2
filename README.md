@@ -24,5 +24,10 @@
 ######Thad tharf ad hafa i huga hversu mikid rafmagn allir tolvupartarnir
 ######thurfa samtals mikid af rafmagni. Thad er lika gott ad hafa spennugjafa sem
 ######er med adeins meira rafmagn en thad sem tolvan myndi thurfa. 
-
-
+###6.
+######1. Skilgreindu vandamalid
+######2. Finndu rotina af vandamalinu
+######3. Hugleiddu/throadu mismunandi lausnir
+######4. Veldu lausn
+######5. Innleiddu lausnina
+######6. Metadu utkomuna
